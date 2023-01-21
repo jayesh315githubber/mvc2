@@ -1,0 +1,50 @@
+@using BOL;
+@using System.Collections.Generic;
+
+@{
+    ViewData["Title"] = "All Hospitals";
+}
+
+<div>
+
+    @{
+        List<Hospital> allHospitals = (List<Hospital>)ViewData["Hospitals"];
+
+        <table class="table">
+
+            <thead>
+                <tr>
+                    <th scope="col">HospId</th>
+                    <th scope="col">HospName</th>
+                    <th scope="col">HospEmail</th>
+                    <th scope="col">HospPin</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+
+                @foreach (Hospital h in allHospitals)
+                {
+                    <tr>
+                        <td scope="row">@h.hospId</td>
+                        <td>@h.hospName</td>
+                        <td>@h.hospEmail</td>
+                        <td>@h.hospPin</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+
+    <form action="/Product/InsertFormofHospital">
+        <button type="submit" id="display" class="btn btn-primary brn-block">Add New Hospital</button>
+    </form>
+
+    <br>
+
+    <form action="/Product/AllProductS">
+        <input type="submit" value="Back" class="btn btn-primary brn-block">
+    </form>
+</div>

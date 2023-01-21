@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{D4B9CE07-30EC-49AD-9580-9DA67906EF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{20D26E9C-4506-4CE8-B638-326377200FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{3AF1D13C-805A-480C-854C-4265C722089B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "highwayapp2", "highwayapp2\highwayapp2.csproj", "{3BA9BF70-00F7-4F6A-8495-6E2CB4CB980C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B9CE07-30EC-49AD-9580-9DA67906EF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B9CE07-30EC-49AD-9580-9DA67906EF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B9CE07-30EC-49AD-9580-9DA67906EF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B9CE07-30EC-49AD-9580-9DA67906EF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D26E9C-4506-4CE8-B638-326377200FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D26E9C-4506-4CE8-B638-326377200FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D26E9C-4506-4CE8-B638-326377200FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D26E9C-4506-4CE8-B638-326377200FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF1D13C-805A-480C-854C-4265C722089B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF1D13C-805A-480C-854C-4265C722089B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF1D13C-805A-480C-854C-4265C722089B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF1D13C-805A-480C-854C-4265C722089B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA9BF70-00F7-4F6A-8495-6E2CB4CB980C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA9BF70-00F7-4F6A-8495-6E2CB4CB980C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA9BF70-00F7-4F6A-8495-6E2CB4CB980C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA9BF70-00F7-4F6A-8495-6E2CB4CB980C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

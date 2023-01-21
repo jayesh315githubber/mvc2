@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Welcome Admin Page ";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="text-center">
+
+    <form action="/Product/AllProducts">
+        <input type="submit" class="col-3 btn btn-primary" value="Display" id="display"></input>
+    </form>
+
+    <br>
+
+
+    <form action="Home/Login">
+        <input type="submit" class="col-3 btn btn-warning" value="LogOut" id="logout"></input>
+    </form>
+
+    <br>
+
+    <form action="">
+        <input type="submit" class="col-3 btn btn-success" value="Registration" id="registration"></input>
+    </form>
+
+    <br>
+
+</div>

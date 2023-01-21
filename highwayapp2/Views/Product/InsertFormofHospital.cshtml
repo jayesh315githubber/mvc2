@@ -1,0 +1,35 @@
+
+@{
+    ViewData["Title"] = "Insert New Hospitals";
+}
+
+<div class="col-6 text-center mx-auto">
+
+    <form action="/Product/InsertFormofHospital" method="post">
+
+    <div class="for-group">
+
+    <label for="name">Hospital Name :</label><br>
+    <input type="text" for="name"  id ="name" name="name" class="form-control" />
+    <br>
+
+    <label for="email">Hospital Email :</label><br>
+    <input type="text" for="email"  id ="email" name="email" class="form-control" />
+    <br>
+
+    <label for="pin">Hospital Pin :</label><br>
+    <input type="text" for="pin"  id ="pin" name="pin" class="form-control" />
+    <br>
+
+    <input type="submit" value="Submit" class="btn btn-primary brn-block"></button>
+    </div>
+
+    </form>
+
+    <br>
+
+    <form action="/Product/ShowAllHospitals">
+        <input type="submit" value="Back" class="btn btn-primary brn-block">
+    </form>
+
+</div>

@@ -1,0 +1,12 @@
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\bin\Debug\net7.0\BOL.dll
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\bin\Debug\net7.0\BOL.pdb
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\BOL.dll
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\BOL.pdb
+D:\Workspace\Dotnet\HighwayHelp_Practice2\BOL\obj\Debug\net7.0\ref\BOL.dll
